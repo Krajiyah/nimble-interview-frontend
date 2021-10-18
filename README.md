@@ -13,11 +13,6 @@
 1. All of above 
 2. See dependencies mentioned [here](https://github.com/Krajiyah/nimble-interview-backend/README.md)
 
-### Tests
-```bash
-yarn test
-```
-
 ### Run Independently
 ```bash
 expo start --tunnel # scan QR code from here on expo client side app
@@ -28,5 +23,4 @@ expo start --tunnel # scan QR code from here on expo client side app
 
 ### Project Structure
 1. Template came from here: https://github.com/venits/react-native-login-template
-2. Interview Frontend code contained in this [diff](https://github.com/Krajiyah/nimble-interview-frontend)
-3. TODO paste diff in above link
+2. Interview Frontend code contained in this [diff](https://github.com/Krajiyah/nimble-interview-frontend/commit/a00dba559c88f86130eb7b43f5290420debdd286)
